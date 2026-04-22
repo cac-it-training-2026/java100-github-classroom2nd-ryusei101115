@@ -100,6 +100,7 @@ public class WarehouseManager {
 		System.out.println("\n\nでした。直してきます...\n");
 
 		//ここに適切な値の挿入処理を記述する
+
 		int target = 0;
 		int total = 0;
 

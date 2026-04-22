@@ -64,6 +64,7 @@ public class WarehouseManager {
 	public static void main(String[] args) throws IOException {
 
 		//配列の宣言および初期化処理を記述する
+
 		String susiArray[] = { "へい！らっしゃい！！", "何にしますか！今日は活きのいいコハダが入ってますよ",
 				"まいどあり！！またどうぞ" };
 
